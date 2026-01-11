@@ -1,6 +1,6 @@
 # easyfit
 
-A new Flutter project.
+A new personal gym companion for beginners.s
 
 ## Getting Started
 
